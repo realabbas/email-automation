@@ -51,6 +51,14 @@ email(recepients); // call method
 
 ```
 
-References:
+## Troublehshoot
+
+Before sending your email using gmail you have to allow non secure apps to access gmail you can do this by going to your gmail settings here.
+
+![Less Secure App Email Automation Realababs Github](https://miro.medium.com/max/1408/1*mRadzlJaSQhBG47VJUTX4w.png)
+
+Once less secure apps is enabled now nodemailer can use your gmail for sending the emails.
+
+## References:
 
 [Bulk Mail](https://nodemailer.com/usage/bulk-mail/)
